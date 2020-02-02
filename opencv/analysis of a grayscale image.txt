@@ -1,0 +1,14 @@
+this is the numpy matrix of the grayscale image: "images"
+
+it is a 2D matrix
+0=black
+255=white
+inbetween 0 and 255 it is in the shade of black and white = greyish
+
+[[139 138 135 ...  96  94  97]
+ [138 137 135 ...  97  95  97]
+ [136 135 133 ... 100  98  96]
+ ...
+ [113 122 132 ...  47  52  50]
+ [113 122 132 ...  47  54  51]
+ [109 118 129 ...  46  48  50]]
